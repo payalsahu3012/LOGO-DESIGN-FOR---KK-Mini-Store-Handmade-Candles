@@ -8,7 +8,7 @@ This repository showcases the logo design, brand identity, and product mockups t
 
 🌿 Brand Identity
 Logo
-<img src="your-logo-file.png" width="300" alt="Mini Store Logo">
+<img src="LogoDesign.pdf"  alt="Mini Store Logo">
 
 Our logo combines:
 
@@ -36,20 +36,9 @@ Product boxes with natural tones
 (Add images/screenshots here)
 
 📸 Branding Preview
-
-(Insert generated branding layouts, ads, or posters here)
-
-📽️ Video Ads
-
-We are working on aesthetic video ads showcasing:
-
-Soft lighting and cozy home scenes
-
-Candle-lighting rituals
-
-Elegant transitions with branding
-
-(Link to video file or add GIF preview here)
+![Mini Store Logo](BrandingDesign1.png)
+![Mini Store Logo](BrandingDesign2.png)
+![Mini Store Logo](BrandingDesign3.png)
 
 🚀 About Mini Store
 
